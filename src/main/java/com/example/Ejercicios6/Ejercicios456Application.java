@@ -23,10 +23,6 @@ public class Ejercicios456Application {
 		repository.save(laptop2);
 		repository.save(laptop3);
 
-
-		//System.out.println("num laptop en base de datos: "+ repository.findAll().size());
-
-
 	}
 
 }
